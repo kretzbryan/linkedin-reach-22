@@ -1,0 +1,3 @@
+### Code snippets for Linkedin Reach
+
+- These are some code snippets in addition to the other examples I have provided in my application. If you havent already been able to review this, and would like to see another example, you can take a look at my new portfolio website as well, found [here](https://bryan-kretz.netlify.app/). You can also see the repository [here](https://github.com/kretzbryan/portfolio-react) Be advised, it was created in just the past week (the first commit was on the 23nd of ocober), and I dont expect it to be in a place to my liking until the end of this week (29th of October), but I believe its still a great example of what I can accomplish in a given amount of time.
